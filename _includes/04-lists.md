@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* live
+* laugh
+* love
+* sleep
+* eat
+* play
+  * repeat
